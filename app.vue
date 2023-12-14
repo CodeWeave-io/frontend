@@ -1,11 +1,5 @@
 <template>
-  <NuxtLayout>
-    <NuxtPage />
-  </NuxtLayout>
+  <div>
+    <NuxtWelcome />
+  </div>
 </template>
-
-<style lang="scss">
-  @tailwind base;
-  @tailwind components;
-  @tailwind utilities;
-</style>
